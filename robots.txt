@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forestplumbing.ca/sitemap-index.xml
