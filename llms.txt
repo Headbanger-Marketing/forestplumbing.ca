@@ -1,2 +1,25 @@
 # Forest Plumbing
-HVAC services in Ontario.
+
+> Forest Plumbing is a local HVAC company serving Forest, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 786-0148  |  Email: contact@forestplumbing.ca  |  Website: https://forestplumbing.ca
+
+## Key pages
+
+- [Home](https://forestplumbing.ca/): Forest Plumbing homepage with service overview and FAQ
+- [About](https://forestplumbing.ca/about/): About the company and service area
+- [Contact](https://forestplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://forestplumbing.ca/services/water-heaters/): Water Heaters in Forest, Ontario
+- [Drain Cleaning](https://forestplumbing.ca/services/drain-cleaning/): Drain Cleaning in Forest, Ontario
+- [Repiping](https://forestplumbing.ca/services/repiping/): Repiping in Forest, Ontario
+- [Fixtures & Toilets](https://forestplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Forest, Ontario
+- [Leak Detection & Repair](https://forestplumbing.ca/services/leak-detection/): Leak Detection & Repair in Forest, Ontario
+- [Sump Pumps & Backwater](https://forestplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Forest, Ontario
+- [Water Softeners & Filtration](https://forestplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Forest, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Forest are answered on the homepage.
